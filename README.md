@@ -1,5 +1,3 @@
-<!mitul_h_Patel>
-<!Contect_Us_:- +91-7383530020>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
